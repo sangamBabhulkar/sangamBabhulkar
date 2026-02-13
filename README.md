@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Java Developer with strong knowledge of Core Java, JDBC, Hibernate, and Spring Boot for backend development, and HTML, CSS, JavaScript, and basic React for frontend development.
+I am a Full Stack Java Developer with strong knowledge of Core Java, JDBC, Hibernate,Servlet,JSP and Spring Boot for backend development, and HTML, CSS, JavaScript, and basic React for frontend development.
 
 
 # 💻 Tech Stack:
